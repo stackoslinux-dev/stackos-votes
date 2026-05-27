@@ -1,7 +1,7 @@
 {
   "firefox": {
-    "up": 0,
+    "up": 1,
     "down": 0,
-    "mine": null
+    "mine": "up"
   }
 }
